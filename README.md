@@ -1,6 +1,6 @@
 # Vending Machine #
 
-## A vending machine using React/Redux ##
+## Vending machine using React/Redux ##
 
 ### Steps to run the project: ###
 
